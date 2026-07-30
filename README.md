@@ -1,2 +1,2 @@
-# kyral-privacy
-Kyral app — Privacy Policy
+# Phosqora-privacy
+Phosqora app — Privacy Policy
